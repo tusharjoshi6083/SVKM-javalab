@@ -1,0 +1,17 @@
+Concatenation:TusharJoshi
+Length of str1:6
+Character at index 1:u
+Substring of str2(0-3):Jos
+Equals? str1 and str2:false
+Uppercase str1:TUSHAR
+Lowercase str2:joshi
+Square root of a:4.0
+a raised to b:28526.20085808741
+Max of a and b:16.0
+Min of a and b:3.7
+Random number(0-1):1.444943612992633E-4
+Random number(10-20):13.715773379783966
+Random number(1-100):63.799544712693546
+Ceil of b:4.0
+Floor of b:3.0
+Round of b:4
