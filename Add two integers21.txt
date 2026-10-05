@@ -1,0 +1,9 @@
+Add two integers:21
+Add three integers: 32
+Add two doubles: 9.9
+name:unknown, age:0
+name:Tushar, age:22
+name:Tushar, age:22
+student s4 details (reference to s2):
+name:Tushar, age:22
+PS C:\Users\coe.shirpur\Tushar Joshi> 
